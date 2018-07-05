@@ -1,0 +1,19 @@
+#wrapper{
+	width:1000px;
+}
+
+.example{
+	height: 200px;
+	width: 1000px;
+	border-bottom: solid red;
+
+}
+#back{
+	display:none;
+}
+#slidedownimg{
+	height:100px;
+	width:100px;
+	display:none;
+
+}

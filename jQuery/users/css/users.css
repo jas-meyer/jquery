@@ -1,0 +1,27 @@
+* {
+	margin:0px;
+	padding:0px;
+}
+#wrapper{
+	width:1000px;
+}
+
+th{
+width: 0px;
+padding-right: 10px
+}
+#header{
+	border: solid black;
+	width: 500px;
+}
+#form{
+	width: 234px;
+}
+#button{
+	margin-top:20px;
+	display: block;
+	margin-left: 40px;
+}
+table{
+	width:500px;
+}

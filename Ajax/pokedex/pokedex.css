@@ -1,0 +1,28 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+#wrapper{
+	width: 1000px;
+}
+#left{
+	width: 700px;
+	display: inline-block;
+}
+#right{
+	width:290px;
+	height:400px;
+	display:inline-block;
+	vertical-align: top
+}
+h1{
+	margin-bottom: 5px;
+}
+h4{
+	margin-bottom:3px;
+	margin-top:5px;
+}
+h5{
+	margin:bottom: 5px;
+}
